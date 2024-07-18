@@ -1,4 +1,5 @@
-## CPLATE
+# 💥 CPLATE 
+
 CPlate is a simple C++ project setup tool that automates the creation of your project:
 - .clang-format
 - CMakeLists.txt
